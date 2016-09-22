@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Add Folder To Project",
+		"ConvertToUTF8",
+		"FileZilla SFTP Import",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"SFTP",
+		"SideBarEnhancements",
+		"SSH Config"
+	]
+}

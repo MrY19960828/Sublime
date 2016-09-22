@@ -1,0 +1,10 @@
+"python3":{
+	"python":"C:\\Program Files (x86)\\Python\\python.exe",
+	"pythonExtraPaths":[
+         "C:\\Program Files (x86)\\Python\\DLLs",
+         "C:\\Program Files (x86)\\Python\\Lib",
+         "C:\\Program Files (x86)\\Python\\Lib\\lib-tk",
+         "C:\\Program Files (x86)\\Python\\Lib\\site-packages",
+Python27"
+	]
+}

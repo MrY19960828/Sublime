@@ -1,0 +1,916 @@
+{
+	"folder_history":
+	[
+		"/D/Python/Py - Work/IDEA",
+		"/E/DataBase/GaoJiTest/01 Linux 安装/Shell",
+		"/C/Users/Y/Desktop"
+	],
+	"last_version": 3114,
+	"last_window_id": 17,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 421.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"D",
+						"D_66"
+					],
+					[
+						"par",
+						"par_table03"
+					],
+					[
+						"table",
+						"tablespace"
+					],
+					[
+						"tab",
+						"TABLESPACE"
+					],
+					[
+						"tabl",
+						"tablespace"
+					],
+					[
+						"p",
+						"par_table02_01"
+					],
+					[
+						"udbs",
+						"udbs_dir"
+					],
+					[
+						"asm_",
+						"asm_disk_stat"
+					],
+					[
+						"ar",
+						"archbk_tag2"
+					],
+					[
+						"arch",
+						"archbk_tag1"
+					],
+					[
+						"oracle",
+						"oracle_4U"
+					],
+					[
+						"rec",
+						"recovery_catalog_owner"
+					],
+					[
+						"reco",
+						"resource"
+					],
+					[
+						"rca",
+						"rcatowner"
+					],
+					[
+						"rcat",
+						"rcatowner"
+					],
+					[
+						"r",
+						"rcat"
+					],
+					[
+						"se",
+						"set_a"
+					],
+					[
+						"re",
+						"resGrade"
+					],
+					[
+						"res",
+						"resGrade"
+					],
+					[
+						"b",
+						"bonusGrade"
+					],
+					[
+						"bo",
+						"bonusGrade"
+					],
+					[
+						"im",
+						"im"
+					],
+					[
+						"s",
+						"show"
+					],
+					[
+						"new",
+						"newImg"
+					],
+					[
+						"tr",
+						"try	Try/Except/Else"
+					],
+					[
+						"fo",
+						"fobj"
+					],
+					[
+						"file",
+						"fileName"
+					],
+					[
+						"c",
+						"counter"
+					],
+					[
+						"wh",
+						"while语句"
+					],
+					[
+						"f",
+						"foo"
+					],
+					[
+						"list",
+						"list1"
+					],
+					[
+						"del",
+						"delName"
+					],
+					[
+						"a",
+						"append"
+					],
+					[
+						"clss",
+						"ClassName"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL-master/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 104.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"SublimeREPL: Python"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"package Control ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 432.0
+			},
+			"console":
+			{
+				"height": 174.0,
+				"history":
+				[
+					"_",
+					"myString",
+					"myString = 'HelloWord'",
+					"_",
+					"a = 422;",
+					"_",
+					"abs(-4)",
+					"abs(4)",
+					"print('ss')",
+					"print 'ads'",
+					"d",
+					"a",
+					"a = 1;",
+					"import urllib.request,os; pf = 'PackageControl.sublime-package'; ipp = sublime.installed_packages_path();urllib.request.install_opener( urllib.request.build_opener(urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf),'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace('','%20')).read())",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"print('sasd')",
+					"print 'asd'",
+					"ls",
+					"dd"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/DataBase/GaoJiTest/01 Linux 安装/Shell/sftp-config.json",
+				"/E/DataBase/GaoJiTest/01 Linux 安装/Shell/01.sh",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+				"/D/Python/Py - Work/IDEA/sftp-config.json",
+				"/D/Python/Py - Work/IDEA/aaaaaaa.py",
+				"/E/DataBase/GaoJiTest/01 Linux 安装/Shell/singleInstabce/sysctl.sh",
+				"/D/Python/Py - Work/IDEA/Text.py",
+				"/D/Python/Py - Work/IDEA/T1.py",
+				"/D/Python/Py - Work/IDEA/hi.py",
+				"/D/Python/Py - Work/IDEA/0824.py",
+				"/D/Python/Py - Work/IDEA/0829.py",
+				"/D/Python/Py - Work/IDEA/Python2/Mail/Mail_ali.py",
+				"/D/Python/Py - Work/IDEA/Python2/Error/first_error_log.py",
+				"/D/Python/Py - Work/IDEA/test.log",
+				"/D/Python/Py - Work/IDEA/Python2/Mail/Mail_QQ.py",
+				"/D/VM - Work/VMware Work/Linux/Rac udbs01/Rac udbs01.vmx",
+				"/E/Matlab/Me-2016/A-1/other/ML_1.m",
+				"/E/Matlab/Me-2016/A-1/other/solveAnglePullML.m",
+				"/E/Matlab/Me-2016/A-1/A-1/GG.m",
+				"/E/Matlab/Me-2016/A-1/A-1/GT.m",
+				"/E/Matlab/Me-2016/A-1/A-1/solve_12_res.m",
+				"/E/Matlab/Me-2016/A-1/A-1/FB.m",
+				"/E/Matlab/Me-2016/A-1/A-1/solve_12.m",
+				"/D/Python/Py - Work/IDEA/a.py",
+				"/D/Python/Py - Work/IDEA/Mail_QQ.py",
+				"/D/Python/Py - Work/IDEA/aa.py",
+				"/C/Program Files/Sublime Text 3/sublime_plugin.py",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/04 复合分区/create_par_table04.sh",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/03 列表分区/create_par_table03.sh",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/01 范围分区/drop_par_table01.sh",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/02 哈希分区/drop_par_table02.sh",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/02 哈希分区/create_par_table02.sh",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/01 范围分区/create_par_table01.sh",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/01 范围分区/select_par_table01.sh",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/create_range_part.sql",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/create_par_tab.sh",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/01 normal_table/normal_table.sql",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/09 备份及恢复/02 热备and恢复/02 rcat/create_rcarowner.sql",
+				"/E/Share/11-GaoJiTest/tnsnames.ora",
+				"/E/Share/11-GaoJiTest/as.ora",
+				"/E/Share/Soft/svn/无标题文档",
+				"/E/Share/Soft/canopy-1.7.4-rh5-64.sh",
+				"/E/Share/Soft/svn/dl4j-examples/runexamples.sh",
+				"/C/Users/Y/Documents/aaa.pdc",
+				"/D/Python/Py - Work/IDEA/Python2/PythonWriteC100/JCP002.py",
+				"/D/Python/Py - Work/IDEA/Python2/Img/Y.py",
+				"/D/Python/Py - Work/IDEA/Python2/PythonWriteC100/JCP001.py",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel-master/.codeintel/config",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+				"/D/Python/Py - Work/IDEA/Python2/Img/T.py",
+				"/D/Python/Py - Work/IDEA/Python2/Img/1r.jpg",
+				"/D/Python/Py - Work/IDEA/Python2/2.15",
+				"/D/Python/Py - Work/IDEA/Python2/Y.py",
+				"/D/Python/Py - Work/IDEA/Mail_ali.py",
+				"/C/My Sort/Recycle Bin/qq/1522105005/FileRecv/测试程序（获取百度贴吧单个贴子的图片）小白全方位注释.py",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/D/Python/Py - Work/IDEA/Python2",
+				"/D/Java/J2 - Work/J2SE/Mail/src/cn/com/mail/sine163/T1.java",
+				"/D/Python/Py - Work/IDEA/TestTranslation.py",
+				"/D/Python/Py - Work/IDEA/Translation.py",
+				"/D/Python/Py - Work/IDEA/Game.py",
+				"/D/Python/Py - Work/IDEA/b.py",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/User/Pylinter.sublime-settings",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/Pylinter/Pylinter.sublime-settings",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/D/forget.txt"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"i",
+					"270000",
+					"200000",
+					" '",
+					"])",
+					"  ",
+					"remember_open",
+					"hot"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 142.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 142.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"D",
+						"D_66"
+					],
+					[
+						"par",
+						"par_table03"
+					],
+					[
+						"table",
+						"tablespace"
+					],
+					[
+						"tab",
+						"TABLESPACE"
+					],
+					[
+						"tabl",
+						"tablespace"
+					],
+					[
+						"p",
+						"par_table02_01"
+					],
+					[
+						"udbs",
+						"udbs_dir"
+					],
+					[
+						"asm_",
+						"asm_disk_stat"
+					],
+					[
+						"ar",
+						"archbk_tag2"
+					],
+					[
+						"arch",
+						"archbk_tag1"
+					],
+					[
+						"oracle",
+						"oracle_4U"
+					],
+					[
+						"rec",
+						"recovery_catalog_owner"
+					],
+					[
+						"reco",
+						"resource"
+					],
+					[
+						"rca",
+						"rcatowner"
+					],
+					[
+						"rcat",
+						"rcatowner"
+					],
+					[
+						"r",
+						"rcat"
+					],
+					[
+						"se",
+						"set_a"
+					],
+					[
+						"re",
+						"resGrade"
+					],
+					[
+						"res",
+						"resGrade"
+					],
+					[
+						"b",
+						"bonusGrade"
+					],
+					[
+						"bo",
+						"bonusGrade"
+					],
+					[
+						"im",
+						"im"
+					],
+					[
+						"s",
+						"show"
+					],
+					[
+						"new",
+						"newImg"
+					],
+					[
+						"tr",
+						"try	Try/Except/Else"
+					],
+					[
+						"fo",
+						"fobj"
+					],
+					[
+						"file",
+						"fileName"
+					],
+					[
+						"c",
+						"counter"
+					],
+					[
+						"wh",
+						"while语句"
+					],
+					[
+						"f",
+						"foo"
+					],
+					[
+						"list",
+						"list1"
+					],
+					[
+						"del",
+						"delName"
+					],
+					[
+						"a",
+						"append"
+					],
+					[
+						"clss",
+						"ClassName"
+					]
+				]
+			},
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL-master/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 104.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"SublimeREPL: Python"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"package Control ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 432.0
+			},
+			"console":
+			{
+				"height": 174.0,
+				"history":
+				[
+					"_",
+					"myString",
+					"myString = 'HelloWord'",
+					"_",
+					"a = 422;",
+					"_",
+					"abs(-4)",
+					"abs(4)",
+					"print('ss')",
+					"print 'ads'",
+					"d",
+					"a",
+					"a = 1;",
+					"import urllib.request,os; pf = 'PackageControl.sublime-package'; ipp = sublime.installed_packages_path();urllib.request.install_opener( urllib.request.build_opener(urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf),'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace('','%20')).read())",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"print('sasd')",
+					"print 'asd'",
+					"ls",
+					"dd"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/DataBase/GaoJiTest/01 Linux 安装/Shell/sftp-config.json",
+				"/E/DataBase/GaoJiTest/01 Linux 安装/Shell/01.sh",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+				"/D/Python/Py - Work/IDEA/sftp-config.json",
+				"/D/Python/Py - Work/IDEA/aaaaaaa.py",
+				"/E/DataBase/GaoJiTest/01 Linux 安装/Shell/singleInstabce/sysctl.sh",
+				"/D/Python/Py - Work/IDEA/Text.py",
+				"/D/Python/Py - Work/IDEA/T1.py",
+				"/D/Python/Py - Work/IDEA/hi.py",
+				"/D/Python/Py - Work/IDEA/0824.py",
+				"/D/Python/Py - Work/IDEA/0829.py",
+				"/D/Python/Py - Work/IDEA/Python2/Mail/Mail_ali.py",
+				"/D/Python/Py - Work/IDEA/Python2/Error/first_error_log.py",
+				"/D/Python/Py - Work/IDEA/test.log",
+				"/D/Python/Py - Work/IDEA/Python2/Mail/Mail_QQ.py",
+				"/D/VM - Work/VMware Work/Linux/Rac udbs01/Rac udbs01.vmx",
+				"/E/Matlab/Me-2016/A-1/other/ML_1.m",
+				"/E/Matlab/Me-2016/A-1/other/solveAnglePullML.m",
+				"/E/Matlab/Me-2016/A-1/A-1/GG.m",
+				"/E/Matlab/Me-2016/A-1/A-1/GT.m",
+				"/E/Matlab/Me-2016/A-1/A-1/solve_12_res.m",
+				"/E/Matlab/Me-2016/A-1/A-1/FB.m",
+				"/E/Matlab/Me-2016/A-1/A-1/solve_12.m",
+				"/D/Python/Py - Work/IDEA/a.py",
+				"/D/Python/Py - Work/IDEA/Mail_QQ.py",
+				"/D/Python/Py - Work/IDEA/aa.py",
+				"/C/Program Files/Sublime Text 3/sublime_plugin.py",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/04 复合分区/create_par_table04.sh",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/03 列表分区/create_par_table03.sh",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/01 范围分区/drop_par_table01.sh",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/02 哈希分区/drop_par_table02.sh",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/02 哈希分区/create_par_table02.sh",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/01 范围分区/create_par_table01.sh",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/01 范围分区/select_par_table01.sh",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/create_range_part.sql",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/03 par_table/create_par_tab.sh",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/04 表管理/01 normal_table/normal_table.sql",
+				"/E/Share/11-GaoJiTest/02-Oracle日常管理及故障处理/09 备份及恢复/02 热备and恢复/02 rcat/create_rcarowner.sql",
+				"/E/Share/11-GaoJiTest/tnsnames.ora",
+				"/E/Share/11-GaoJiTest/as.ora",
+				"/E/Share/Soft/svn/无标题文档",
+				"/E/Share/Soft/canopy-1.7.4-rh5-64.sh",
+				"/E/Share/Soft/svn/dl4j-examples/runexamples.sh",
+				"/C/Users/Y/Documents/aaa.pdc",
+				"/D/Python/Py - Work/IDEA/Python2/PythonWriteC100/JCP002.py",
+				"/D/Python/Py - Work/IDEA/Python2/Img/Y.py",
+				"/D/Python/Py - Work/IDEA/Python2/PythonWriteC100/JCP001.py",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel-master/.codeintel/config",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+				"/D/Python/Py - Work/IDEA/Python2/Img/T.py",
+				"/D/Python/Py - Work/IDEA/Python2/Img/1r.jpg",
+				"/D/Python/Py - Work/IDEA/Python2/2.15",
+				"/D/Python/Py - Work/IDEA/Python2/Y.py",
+				"/D/Python/Py - Work/IDEA/Mail_ali.py",
+				"/C/My Sort/Recycle Bin/qq/1522105005/FileRecv/测试程序（获取百度贴吧单个贴子的图片）小白全方位注释.py",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/D/Python/Py - Work/IDEA/Python2",
+				"/D/Java/J2 - Work/J2SE/Mail/src/cn/com/mail/sine163/T1.java",
+				"/D/Python/Py - Work/IDEA/TestTranslation.py",
+				"/D/Python/Py - Work/IDEA/Translation.py",
+				"/D/Python/Py - Work/IDEA/Game.py",
+				"/D/Python/Py - Work/IDEA/b.py",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/User/Pylinter.sublime-settings",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/Pylinter/Pylinter.sublime-settings",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Y/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/D/forget.txt"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"i",
+					"270000",
+					"200000",
+					" '",
+					"])",
+					"  ",
+					"remember_open",
+					"hot"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 142.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 142.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,558,78,78,734",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 16
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

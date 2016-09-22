@@ -1,0 +1,13 @@
+{
+    // Configure pylint's behavior
+    "pylint_rc": "C:\\Program Files (x86)\\Python\\Python27\\Lib\\site-packages\\pylint-1.0.0-py2.7.egg\\pylint",
+ 
+    // Show different icons for errors, warnings, etc.
+    "use_icons": true,
+ 
+    // Automatically run Pylinter when saving a Python document
+    "run_on_save": true,
+ 
+    // Don't hide pylint messages when moving the cursor
+    "message_stay": true
+}
